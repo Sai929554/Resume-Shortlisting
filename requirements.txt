@@ -1,0 +1,5 @@
+flask
+pandas
+Flask-Caching
+spacy
+gunicorn
