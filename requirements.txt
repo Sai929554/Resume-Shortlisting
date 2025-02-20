@@ -3,3 +3,4 @@ pandas
 Flask-Caching
 spacy
 waitress
+numpy
